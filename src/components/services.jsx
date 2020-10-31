@@ -5,7 +5,7 @@ const Services = () => {
     return ( 
         <div className="services">
         <Container>
-        <h2><center>Services</center></h2><br/>
+        <br/><h2><center>Services</center></h2><br/>
             <Row>
                 <Col sm={4} xs={12}>
                 <Card className="card-services">
@@ -18,7 +18,7 @@ const Services = () => {
                           and Angualr; plus modern libraries and frameworks.
                     </p>
                     </CardBody>
-                </Card>
+                </Card><br/><br/>
                 </Col>
                 <Col sm={4} xs={12}>
                 <Card className="card-services">
@@ -31,7 +31,7 @@ const Services = () => {
                           configuration management, CI/CD, and DevOps processes.
                     </p>
                     </CardBody>
-                </Card>
+                </Card><br/><br/>
                 </Col>
                 <Col sm={4} xs={12}>
                 <Card className="card-services">
@@ -45,7 +45,7 @@ const Services = () => {
 
                     </p>
                     </CardBody>
-                </Card>
+                </Card><br/><br/>
                 </Col>
             </Row>
         </Container>

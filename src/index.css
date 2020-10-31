@@ -295,7 +295,6 @@ Jobs
 }
 .services {
   background-color: #f1f5f8;
-  padding: 80px;
 }
 .card-services {
   border-radius: unset;
@@ -310,7 +309,7 @@ Jobs
   background-color: #e0fcff;
 }
 .profile-desc {
-  margin-top: 150px;
+  margin-top: 100px;
   padding-left: 60px;
   margin-bottom: 50px;
 }
@@ -355,4 +354,31 @@ Jobs
 }
 .label {
   color: #2caeba;
+}
+.projects {
+  background-color: #f1f5f8;
+  padding-bottom: 50px;
+}
+.project-card {
+  position: relative;
+  margin-top: 40px;
+  z-index: 1;
+}
+.project-img {
+  position: relative;
+  margin-left: -350px;
+  margin-right: 350px;
+}
+.img {
+  height: 400px;
+  width: 800px;
+  opacity: 0.9;
+}
+.project-cardx {
+  position: relative;
+  margin-top: 40px;
+  z-index: 1;
+}
+.carourex {
+  width: 610px;
 }

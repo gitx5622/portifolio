@@ -7,32 +7,32 @@ const NavBar = () => {
         <div className="navbarx">
         <Navbar expand="md">
             <Container>
-                <Col sm={6}><h3>Web Dev</h3></Col>
-                <Col sm={2}></Col>
-                <Col sm={4}>
+                <Col sm={6} xs={12}><h3>Web Dev</h3></Col>
+                <Col sm={2} xs={12}></Col>
+                <Col sm={4} xs={12}>
                 <Nav navbar>
-                    <NavItem>
-                    <NavLink active href="#">
+                    <NavItem className="d-none d-sm-block">
+                    <NavLink active href="/">
                         Home
                     </NavLink>
                     </NavItem>
-                    <NavItem>
-                    <NavLink active href="#">
+                    <NavItem className="d-none d-sm-block">
+                    <NavLink active href="/about">
                         About
                     </NavLink>
                     </NavItem>
-                    <NavItem>
-                    <NavLink active href="#">
+                    <NavItem className="d-none d-sm-block">
+                    <NavLink active href="/projects">
                         Projects
                     </NavLink>
                     </NavItem>
-                    <NavItem>
-                    <NavLink active href="#">
+                    <NavItem className="d-none d-sm-block">
+                    <NavLink active href="/blog">
                         Blog
                     </NavLink>
                     </NavItem>
-                    <NavItem>
-                    <NavLink active href="#">
+                    <NavItem className="d-none d-sm-block">
+                    <NavLink active href="/contact">
                         Contact
                     </NavLink>
                     </NavItem>

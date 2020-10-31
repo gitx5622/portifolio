@@ -4,6 +4,7 @@ import Expierence from './components/expierience';
 import Footer from './components/footer';
 import NavBar from './components/navbar';
 import Profile from './components/profile';
+import Projects from './components/projects';
 import Services from './components/services';
 
 const url = 'https://course-api.com/react-tabs-project'
@@ -38,6 +39,7 @@ function App() {
       <Profile/>
       <Services/>
       <Expierence jobs={jobs} value={value} company={company} dates={dates} duties={duties} title={title} setValue={setValue}/>
+      <Projects/>
       <Footer/>
       </div>
   );

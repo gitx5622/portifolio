@@ -9,8 +9,8 @@ const Footer = () => {
                 <Row>
                     <Col>
                     <AiFillGithub className="footer-icons"/>
-                    <FaLinkedin className="footer-icons"/><br/>
-                    <br/>
+                    <FaLinkedin className="footer-icons"/>
+                    <br/><br/>
                     <p>COPYRIGHT©2020<strong className="label"> WEB DEV </strong>ALL RIGHTS RESERVED</p>       
                     </Col>
                 </Row>
