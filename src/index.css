@@ -283,7 +283,6 @@ Jobs
   border-radius: var(--radius);
   display: block;
   width: 12rem;
-  margin: 0 auto;
   margin-top: 3rem;
 }
 .btnx:hover {
@@ -333,4 +332,27 @@ Jobs
 }
 .ai-icons {
   font-size: 40px;
+  margin: 15px;
+}
+.footer-icons {
+  font-size: 40px;
+  color: white;
+  margin-left: 10px;
+}
+.footer {
+  height:180px;
+  background: #222;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.footer p {
+  color: white;
+  letter-spacing: 5px;
+}
+.label {
+  color: #2caeba;
 }

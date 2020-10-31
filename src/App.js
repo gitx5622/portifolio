@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Expierence from './components/expierience';
+import Footer from './components/footer';
 import NavBar from './components/navbar';
 import Profile from './components/profile';
 import Services from './components/services';
@@ -37,6 +38,7 @@ function App() {
       <Profile/>
       <Services/>
       <Expierence jobs={jobs} value={value} company={company} dates={dates} duties={duties} title={title} setValue={setValue}/>
+      <Footer/>
       </div>
   );
 }
