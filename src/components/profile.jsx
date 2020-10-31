@@ -20,7 +20,7 @@ const Profile = () => {
                 <div className="underlinex"></div>
                 <h1>I'm George</h1>
                 <h4>Web Developer and Devops Engineer</h4>
-                <button className="btn">CONTACT ME</button>
+                <button type='button' className="btnx">CONTACT ME</button>
                 <div className="ai-icons">
                 <AiFillGithub onClick={<Redirect to="https://github.com/gitx5622"/>}/>
                 <FaLinkedin/>
