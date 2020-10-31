@@ -1,46 +1,25 @@
 
-import React, { useState, useEffect } from 'react';
-import Expierence from './components/expierience';
-import Footer from './components/footer';
-import NavBar from './components/navbar';
-import Profile from './components/profile';
+import React from 'react';
+import { Router, Switch, Route } from "react-router-dom";
 import Projects from './components/projects';
-import Services from './components/services';
-
-const url = 'https://course-api.com/react-tabs-project'
+import About from './components/about';
+import Home from './components/home';
+import Blog from './components/blog';
+import Contact from './components/contact';
+import { history } from './utils/history';
 
 function App() {
-  const [loading, setLoading] = useState(true)
-  const [jobs, setJobs] = useState([])
-  const [value, setValue] = useState(0)
-
-  const fetchJobs = async () => {
-    const reponse = await fetch(url)
-    const newJobs = await reponse.json()
-    setJobs(newJobs)
-    setLoading(false)
-  }
-  useEffect(() => {
-    fetchJobs()
-  }, [])
-
-  if (loading) {
-    return (
-      <section className='section loading'>
-        <h1>Loading...</h1>
-      </section>
-    )
-  }
-
-  const { company, dates, duties, title } = jobs[value]
   return (
       <div>
-      <NavBar/>
-      <Profile/>
-      <Services/>
-      <Expierence jobs={jobs} value={value} company={company} dates={dates} duties={duties} title={title} setValue={setValue}/>
-      <Projects/>
-      <Footer/>
+      <Router history={history}>
+        <Switch>
+          <Route path="/about" component={About}/>
+          <Route path="/projects" component={Projects}/>
+          <Route path="/blog" component={Blog}/>
+          <Route path="/contact" component={Contact}/>
+          <Route exact path="/" component={Home}/>
+        </Switch>
+      </Router>
       </div>
   );
 }

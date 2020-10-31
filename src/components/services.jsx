@@ -23,7 +23,7 @@ const Services = () => {
                 <Col sm={4} xs={12}>
                 <Card className="card-services">
                     <CardBody>
-                    <CardTitle>Devops CI/CD Pipelines</CardTitle>
+                    <CardTitle>Devops CI/CD</CardTitle>
                     <div className="underline"></div>
                     <p>Skilled DevOps Engineer with 2+ years of hands-on
                          experience supporting, automating, and optimizing
