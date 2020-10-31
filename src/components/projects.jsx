@@ -131,7 +131,7 @@ const Projects = () => {
                 </Col>
             </Row><br/>
             <center>
-                <a className="m-2 btn">
+                <a href="/" className="m-2 btn">
                     PROJECTS
                 </a>
             </center><br/>
