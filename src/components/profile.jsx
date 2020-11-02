@@ -20,10 +20,12 @@ const Profile = () => {
                 <div className="underlinex"></div>
                 <h1>I'm George</h1>
                 <h4>Web Developer and Devops Engineer</h4>
-                <Link to="/contact"><button type='button' className="btnx">CONTACT ME</button></Link>
-                <Link to="/contact"><AiFillGithub className="ai-icons"/></Link>
-                <Link to="/contact"><FaLinkedin className="ai-icons"/></Link>
                 </div>
+                <Link to="/contact"><button type='button' className="btnx">CONTACT ME</button></Link>
+                <AiFillGithub className="ai-icons"/>
+                <a href="https://github.com/gitx5622">https://github.com/gitx5622</a>
+                <FaLinkedin className="ai-icons"/>
+                <a href="https://github.com/gitx5622">www.linkedin.com/in/george-ndungu-432bbb191</a>
             </Col>
         </Row>
         </Container>

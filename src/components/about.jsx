@@ -22,14 +22,12 @@ const About = () => {
                     <Card>
                         <CardBody>
                     <p className="card-body">
-                    Franzen af pitchfork, mumblecore try-hard kogi XOXO 
-                    roof party la croix cardigan neutra retro tattooed 
-                    copper mug. Meditation lomo biodiesel scenester cred
-                    actually godard PBR&B. Fam VHS enamel pin try-hard
-                    echo park raw denim unicorn fanny pack vape authentic.
-                    Helvetica fixie church-key, small batch jianbing 
-                    messenger bag scenester +1 before they sold out 
-                    bespoke paleo hammock
+                    I’m vigilant, proactive and committed to ensuring safe, 
+                    secure, and orderly environments. In my last incident 
+                    response rating, I received a 99% against the team average, 
+                    which has been at around 97% over the past three years. 
+                    I like to be thorough, documenting all incidents. I’m also 
+                    a lifelong learner, problem solver and with a can-do approach.
                     </p>
                         </CardBody>
                     </Card>
