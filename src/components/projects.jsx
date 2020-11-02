@@ -10,7 +10,6 @@ import eshop3 from "../assets/eshop3.png";
 import gamex from "../assets/gamex.png";
 import gamex2 from "../assets/gamex2.png";
 import gamex3 from "../assets/gamex3.png";
-import NavBar from './navbar';
 
 const Projects = () => {
     return ( 
