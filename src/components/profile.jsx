@@ -23,7 +23,7 @@ const Profile = () => {
                 </div>
                 <Link to="/contact"><button type='button' className="btnx">CONTACT ME</button></Link>
                 <AiFillGithub className="ai-icons"/>
-                <a href="https://github.com/gitx5622">https://github.com/gitx5622</a>
+                <a href="https://github.com/gitx5622">https://github.com/gitx5622</a><br/>
                 <FaLinkedin className="ai-icons"/>
                 <a href="https://github.com/gitx5622">www.linkedin.com/in/george-ndungu-432bbb191</a>
             </Col>
