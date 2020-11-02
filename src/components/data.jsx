@@ -14,8 +14,21 @@ const experience = [
     "company": "Wamu Limited"
     },
     {
-    "id": "2",
-    "order": 2,
+        "id": "2",
+        "order": 2,
+        "title": "Devops Engineer",
+        "dates": "May 2020 – August 2020 (Part Time)",
+        "duties": [
+        "Involved in Automatic Deployment of Hela Pesa Web Application",
+        "Experience working with CI/CD implementation a Micro-services architecture",
+        "Experience with automation/ integration tools like Jenkins",
+        "Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm"
+        ],
+        "company": "HELA PESA"
+        },
+    {
+    "id": "3",
+    "order": 1,
     "title": "Front-End Engineer",
     "dates": "October, 2018 – July 2019 December",
     "duties": [
@@ -26,19 +39,6 @@ const experience = [
         "Developed content management system"
     ],
     "company": "Fande Company"
-    },
-    {
-    "id": "3",
-    "order": 1,
-    "title": "Devops Engineer",
-    "dates": "May 2020 – August 2020 (Part Time)",
-    "duties": [
-    "Involved in Automatic Deployment of Hela Pesa Web Application",
-    "Experience working with CI/CD implementation a Micro-services architecture",
-    "Experience with automation/ integration tools like Jenkins",
-    "Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm"
-    ],
-    "company": "HELA PESA"
     },
     {
         "id": "4",
