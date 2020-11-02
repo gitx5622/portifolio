@@ -82,10 +82,9 @@ const Projects = () => {
                         among others in Africa.The company is also a logistics service, which 
                         enables the shipment and delivery of packages from sellers to consumers,
                         and a payment service, which facilitates transactions among participants 
-                        active and Onlineshoppingkenya platform in selected markets.
+                        active and Onlineshoppingkenya platform in selected markets.<br/>
                         #1 Kenya's Online store for Electronics, Smartphones, Computers & Laptops, 
-                        Home Appliances. Don't Miss Our Exclusive Deals Today. Enjoy Same Day Shipping 
-                        and Country Wide Delivery. Same Day Shipping. Country Wide Delivery.
+                        Home Appliances. Don't Miss Our Exclusive Deals Today.
                         </p>
                     </CardBody>
                 </Card>
@@ -100,12 +99,11 @@ const Projects = () => {
                         <h4><a href="https://gamex.likee.co.ke">gamex.likee.co.ke</a></h4>
                         <p>Gamex the intersection of tech and gaming news, Techraptor brings honest, 
                             informed news coverage you won’t find in many places. Readers love the 
-                            broad spectrum of news on indie games from platformers, survival-based 
-                            games, and RPGs. Despite being one of the youngest nominees in this list,
+                            broad spectrum of news on indie games from platformers. Despite being one of the youngest nominees in this list,
                              their writing staff stands out for actively engaging with their readers.
                              One of two magazine-based gaming websites, Gamex continues to 
                              operate a print-based publication in addition to an online presence where 
-                             you can find news and articles on all the major gaming topics.
+                             you can find news and articles on gaming topics.
                         </p>
                     </CardBody>
                 </Card>
