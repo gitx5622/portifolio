@@ -30,7 +30,7 @@ const Projects = () => {
                             The app entailed posts where a user can login create 
                             posts after which the post can be liked by others and 
                             can comment on the posts.You can create as many posts 
-                            and can be able to views all your posts, likes and comments.
+                            and can be able to views all your posts, likes and comments.<br/>
                             Faced some issues with the backend side but still managed to get best 
                             of my expectations.
                         </p>
@@ -100,7 +100,7 @@ const Projects = () => {
                         <p>Gamex the intersection of tech and gaming news, Techraptor brings honest, 
                             informed news coverage you won’t find in many places. Readers love the 
                             broad spectrum of news on indie games from platformers. Despite being one of the youngest nominees in this list,
-                             their writing staff stands out for actively engaging with their readers.
+                             their writing staff stands out for actively engaging with their readers.<br/>
                              One of two magazine-based gaming websites, Gamex continues to 
                              operate a print-based publication in addition to an online presence where 
                              you can find news and articles on gaming topics.
