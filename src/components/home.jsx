@@ -5,22 +5,21 @@ import Footer from './footer';
 import NavBar from './navbar';
 import Profile from './profile';
 import Projects from './projects';
+import data from "./data";
+
 
 const Home = () => {
 const [loading, setLoading] = useState(true)
-  const [jobs, setJobs] = useState([])
+  const [jobs, setJobs] = useState(data)
   const [value, setValue] = useState(0)
 
-  const url = 'https://course-api.com/react-tabs-project'
-
   const fetchJobs = async () => {
-    const reponse = await fetch(url)
-    const newJobs = await reponse.json()
-    setJobs(newJobs)
-    setLoading(false)
+    setJobs(jobs)
+    setLoading(false);
   }
   useEffect(() => {
-    fetchJobs()
+    fetchJobs();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   if (loading) {
