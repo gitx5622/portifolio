@@ -15,7 +15,6 @@ import NavBar from './navbar';
 const Projects = () => {
     return ( 
         <div>
-            <NavBar/>
         <div className="projects d-none d-sm-block">
             <Container> 
             <h3><center><br/>PROJECTS</center></h3>
