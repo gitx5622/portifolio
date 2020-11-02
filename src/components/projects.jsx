@@ -31,6 +31,8 @@ const Projects = () => {
                             posts after which the post can be liked by others and 
                             can comment on the posts.You can create as many posts 
                             and can be able to views all your posts, likes and comments.
+                            Faced some issues with the backend side but still managed to get best 
+                            of my expectations.
                         </p>
                     </CardBody>
                 </Card>
