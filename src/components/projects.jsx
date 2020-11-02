@@ -25,16 +25,13 @@ const Projects = () => {
                     <CardBody>
                         <h3>Likee</h3>
                         <h4><a href="https://likee.co.ke">likee.co.ke</a></h4>
-                        <p>Franzen af pitchfork, mumblecore try-hard kogi XOXO roof 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
+                        <p>Likee was my first project to do with react. 
+                            This is a social app which resembled much of 
+                            twitter with less functionality as compared. 
+                            The app entailed posts where a user can login create 
+                            posts after which the post can be liked by others and 
+                            can comment on the posts.You can create as many posts 
+                            and can be able to views all your posts, likes and comments.
                         </p>
                     </CardBody>
                 </Card>
@@ -79,16 +76,15 @@ const Projects = () => {
                     <CardBody>
                         <h3>Eshop</h3>
                         <h4><a href="https://onlineshoppingkenya.co.ke">onlineshoppingenya.co.ke</a></h4>
-                        <p>Franzen af pitchfork, mumblecore try-hard kogi XOXO roof 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
+                        <p>
+                        Onlineshoppingkenya is an online marketplace based in Kenya for electronics, and fashion 
+                        among others in Africa.The company is also a logistics service, which 
+                        enables the shipment and delivery of packages from sellers to consumers,
+                        and a payment service, which facilitates transactions among participants 
+                        active and Onlineshoppingkenya platform in selected markets.
+                        #1 Kenya's Online store for Electronics, Smartphones, Computers & Laptops, 
+                        Home Appliances. Don't Miss Our Exclusive Deals Today. Enjoy Same Day Shipping 
+                        and Country Wide Delivery. Same Day Shipping. Country Wide Delivery.
                         </p>
                     </CardBody>
                 </Card>
@@ -101,16 +97,14 @@ const Projects = () => {
                     <CardBody>
                         <h3>Gamex</h3>
                         <h4><a href="https://gamex.likee.co.ke">gamex.likee.co.ke</a></h4>
-                        <p>Franzen af pitchfork, mumblecore try-hard kogi XOXO roof 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
-                            party la croix cardigan neutra retro tattooed copper mug. 
-                            Meditation lomo biodiesel scenester cred actually godard PBR&B. 
-                            Fam VHS enamel pin try-hard echo park raw denim unicorn fanny 
+                        <p>Gamex the intersection of tech and gaming news, Techraptor brings honest, 
+                            informed news coverage you won’t find in many places. Readers love the 
+                            broad spectrum of news on indie games from platformers, survival-based 
+                            games, and RPGs. Despite being one of the youngest nominees in this list,
+                             their writing staff stands out for actively engaging with their readers.
+                             One of two magazine-based gaming websites, Gamex continues to 
+                             operate a print-based publication in addition to an online presence where 
+                             you can find news and articles on all the major gaming topics.
                         </p>
                     </CardBody>
                 </Card>
