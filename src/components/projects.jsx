@@ -10,9 +10,12 @@ import eshop3 from "../assets/eshop3.png";
 import gamex from "../assets/gamex.png";
 import gamex2 from "../assets/gamex2.png";
 import gamex3 from "../assets/gamex3.png";
+import NavBar from './navbar';
 
 const Projects = () => {
     return ( 
+        <div>
+            <NavBar/>
         <div className="projects d-none d-sm-block">
             <Container> 
             <h3><center><br/>PROJECTS</center></h3>
@@ -136,6 +139,7 @@ const Projects = () => {
                 </a>
             </center><br/>
             </Container>
+        </div>
         </div>
      );
 }
