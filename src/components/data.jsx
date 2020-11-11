@@ -46,10 +46,12 @@ const experience = [
         "title": "PERSONAL WEBSITES",
         "dates": "2017 - 2020",
         "duties": [
+        "toprated.likee.co.ke",
         "likee.co.ke",
         "onlineshoppingkenya.co.ke",
         "gamex.likee.co.ke",
-        "portifolio.likee.co.ke"
+        "portifolio.likee.co.ke",
+        "verifiedprofessors.com"
         ],
         "company": "WEBSITES"
         }

@@ -100,7 +100,7 @@ const Projects = () => {
                         <p>Gamex the intersection of tech and gaming news, Techraptor brings honest, 
                             informed news coverage you won’t find in many places. Readers love the 
                             broad spectrum of news on indie games from platformers. Despite being one of the youngest nominees in this list,
-                             their writing staff stands out for actively engaging with their readers.<br/>
+                             their writing staff stands out for actively engaging with their readers.
                              One of two magazine-based gaming websites, Gamex continues to 
                              operate a print-based publication in addition to an online presence where 
                              you can find news and articles on gaming topics.

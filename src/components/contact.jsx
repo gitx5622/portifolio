@@ -23,7 +23,7 @@ const Contact = () => {
                             <input type="email" class="form-control contact-input" placeholder="EMAIL"/>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control contact-input" placeholder="MESSAGE"></textarea>
+                            <textarea class="form-control contact-input" placeholder="🤔 MESSAGE"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                         </form>
