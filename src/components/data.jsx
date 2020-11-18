@@ -51,6 +51,7 @@ const experience = [
         "onlineshoppingkenya.co.ke",
         "gamex.likee.co.ke",
         "portifolio.likee.co.ke",
+        "gamelounge.likee.co.ke (Development)",
         "verifiedprofessors.com"
         ],
         "company": "WEBSITES"
