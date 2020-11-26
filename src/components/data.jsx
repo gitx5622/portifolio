@@ -48,7 +48,7 @@ const experience = [
         "duties": [
         "toprated.likee.co.ke",
         "likee.co.ke",
-        "onlineshoppingkenya.co.ke",
+        "eshop.likee.co.ke",
         "gamex.likee.co.ke",
         "portifolio.likee.co.ke",
         "gamelounge.likee.co.ke (Development)",
