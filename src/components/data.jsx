@@ -46,16 +46,18 @@ const experience = [
         "title": "PERSONAL WEBSITES",
         "dates": "2017 - 2020",
         "duties": [
-        "toprated.likee.co.ke",
-        "likee.co.ke",
-        "eshop.likee.co.ke",
-        "gamex.likee.co.ke",
-        "portifolio.likee.co.ke",
-        "gamelounge.likee.co.ke",
-        "bodaorda.likee.co.ke",
-        "admin.likee.co.ke",
-        "advanced.likee.co.ke",
-        "verifiedprofessors.com"
+        "likee.toprated.co.ke",
+        "toprated.co.ke",
+        "eshop.toprated.co.ke",
+        "gamex.toprated.co.ke",
+        "portifolio.toprated.co.ke",
+        "gamelounge.toprated.co.ke",
+        "bodaorda.toprated.co.ke",
+        "admin.toprated.co.ke",
+        "advanced.toprated.co.ke",
+        "verifiedprofessors.com",
+        "doctorateessays.com",
+        "wamu.co.ke"
         ],
         "company": "WEBSITES"
         }

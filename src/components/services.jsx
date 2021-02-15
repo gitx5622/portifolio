@@ -15,7 +15,7 @@ const Services = () => {
                     <p>Innovative Front End Developer with 3+ years experience
                          building and maintaining responsive websites in the
                           recruiting industry. Proficient in HTML, CSS, JavaScript 
-                          and Angualr; plus modern libraries and frameworks.
+                          and React; plus modern libraries and frameworks.
                     </p>
                     </CardBody>
                 </Card><br/><br/>
@@ -40,8 +40,7 @@ const Services = () => {
                     <div className="underline"></div>
                     <p>Passionate Back-End Developer with 2+ years experience
                         building and maintaining responsive websites in the
-                        recruiting industry. Proficient in Golang, and NodeJS;
-                        Using Express in Node and Gin in Gloang.
+                        recruiting industry. Proficient in Golang.
 
                     </p>
                     </CardBody>
