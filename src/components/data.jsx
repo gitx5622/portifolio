@@ -2,43 +2,50 @@ const experience = [
     {
     "id": "1",
     "order": 3,
-    "title": "Full Stack Web Developer",
+    "title": "Front-end Software Developer",
     "dates": "2019 - Current",
     "duties": [
-        "Using  programming capabilities in NodeJS, React, and other libraries as needed",
-        "Addressing  to complex bugs",
-        "Performing automated testing  tasks",
-        "Designing and executing security measures such as firewalls and encryption",
-       " Collaborating with multiple teams daily to build full stack applications for dozens of clients"
+      "Implementing web design and development principles to build stable software."
+        "Communicating technical issues in an understandable manner to the team and clients."  
+        "Develop new user-facing features"
+        "Tailoring user experience"
+        "Production, modification, and maintenance of websites and web application user interfaces"
+        "Designing and implementing responsive design for mobile sites"
+        "Contributing some back-end experience, collaborating on APIs tailoring"
+        "Maintaining software workflow management with Git and GitHub"
+        "Carrying out Automatic deployment"
     ],
-    "company": "Wamu Limited"
+    "company": "Graphine East Africa  Limited"
     },
     {
         "id": "2",
         "order": 2,
         "title": "Devops Engineer",
-        "dates": "May 2020 – August 2020 (Part Time)",
+        "dates": "May 2020 – August 2020",
         "duties": [
         "Involved in Automatic Deployment of Hela Pesa Web Application",
         "Experience working with CI/CD implementation a Micro-services architecture",
         "Experience with automation/ integration tools like Jenkins",
         "Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm"
         ],
-        "company": "HELA PESA"
+        "company": "Hela Capitals"
         },
     {
     "id": "3",
     "order": 1,
     "title": "Front-End Engineer",
-    "dates": "October, 2018 – July 2019 December",
+    "dates": "January, 2018 – 2019",
     "duties": [
-        "Front-end Designing",
-        "Served as an effective and enthusiastic collaborator",
-        "Redesigned and dramatically simplified an overly-complex user interface, while preserving all functionality",
-        "Implemented and updated application modules under the direction of Senior Software Developers",
-        "Developed content management system"
+        "Designing mockups and developing Websites"
+        "Frontend Development using React.js, Redux, TypeScript, jQuery, ES6."
+        "Creating Servers and REST APIs using Golang, PHP"
+        "Setting up, Developing and Maintaining Databases: MySQL, Postgres."
+        "Devops: Docker"
+        "Shipping code in a team environment"
+        "Testing to identify bugs and technical issues before and after deploying."
+        "Documenting bug reports, tickets, and any code changes."
     ],
-    "company": "Fande Company"
+    "company": "Fande Data Systems Company"
     },
     {
         "id": "4",
