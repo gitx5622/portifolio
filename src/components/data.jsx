@@ -45,7 +45,7 @@ const experience = [
         "Testing to identify bugs and technical issues before and after deploying.",
         "Documenting bug reports, tickets, and any code changes."
     ],
-    "company": "Fande Data Systems Company"
+    "company": "Fande Company"
     },
     {
         "id": "4",
