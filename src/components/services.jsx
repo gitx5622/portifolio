@@ -41,7 +41,8 @@ const Services = () => {
                     <p>Passionate Back-End Developer with 2+ years experience
                         building and maintaining responsive websites in the
                         recruiting industry. Proficient in Golang.
-                        Gin-gonic Architecture
+                        Gin-gonic Architecture, Microservices, Payments, 
+                        building REST APIs.
                     </p>
                     </CardBody>
                 </Card><br/><br/>
