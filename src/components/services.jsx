@@ -12,7 +12,7 @@ const Services = () => {
                     <CardBody>
                     <CardTitle>Frontend Development</CardTitle>
                     <div className="underline"></div>
-                    <p>Innovative Front End Developer with 3+ years experience
+                    <p>Innovative Front End Developer with 4+ years experience
                          building and maintaining responsive websites in the
                           recruiting industry. Proficient in HTML, CSS, JavaScript 
                           and React; plus modern libraries and frameworks.
@@ -41,7 +41,7 @@ const Services = () => {
                     <p>Passionate Back-End Developer with 2+ years experience
                         building and maintaining responsive websites in the
                         recruiting industry. Proficient in Golang.
-
+                        Gin-gonic Architecture
                     </p>
                     </CardBody>
                 </Card><br/><br/>
