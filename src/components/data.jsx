@@ -5,14 +5,14 @@ const experience = [
     "title": "Front-end Software Developer",
     "dates": "2019 - Current",
     "duties": [
-      "Implementing web design and development principles to build stable software."
-        "Communicating technical issues in an understandable manner to the team and clients."  
-        "Develop new user-facing features"
-        "Tailoring user experience"
-        "Production, modification, and maintenance of websites and web application user interfaces"
-        "Designing and implementing responsive design for mobile sites"
-        "Contributing some back-end experience, collaborating on APIs tailoring"
-        "Maintaining software workflow management with Git and GitHub"
+      "Implementing web design and development principles to build stable software.",
+        "Communicating technical issues in an understandable manner to the team and clients.",
+        "Develop new user-facing features",
+        "Tailoring user experience",
+        "Production, modification, and maintenance of websites and web application user interfaces",
+        "Designing and implementing responsive design for mobile sites",
+        "Contributing some back-end experience, collaborating on APIs tailoring",
+        "Maintaining software workflow management with Git and GitHub",
         "Carrying out Automatic deployment"
     ],
     "company": "Graphine East Africa  Limited"
@@ -36,13 +36,13 @@ const experience = [
     "title": "Front-End Engineer",
     "dates": "January, 2018 – 2019",
     "duties": [
-        "Designing mockups and developing Websites"
-        "Frontend Development using React.js, Redux, TypeScript, jQuery, ES6."
-        "Creating Servers and REST APIs using Golang, PHP"
-        "Setting up, Developing and Maintaining Databases: MySQL, Postgres."
-        "Devops: Docker"
-        "Shipping code in a team environment"
-        "Testing to identify bugs and technical issues before and after deploying."
+        "Designing mockups and developing Websites",
+        "Frontend Development using React.js, Redux, TypeScript, jQuery, ES6.",
+        "Creating Servers and REST APIs using Golang, PHP",
+        "Setting up, Developing and Maintaining Databases: MySQL, Postgres.",
+        "Devops: Docker",
+        "Shipping code in a team environment",
+        "Testing to identify bugs and technical issues before and after deploying.",
         "Documenting bug reports, tickets, and any code changes."
     ],
     "company": "Fande Data Systems Company"
