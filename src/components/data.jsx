@@ -47,15 +47,35 @@ const experience = [
     ],
     "company": "Fande Company"
     },
+     {
+    "id": "4",
+    "order": 4,
+    "title": "Junior Front-End Engineer",
+    "dates": "January, 2016 – 2018",
+    "duties": [
+        "Development of new software products",
+        "Bringing mockups to life using HTML, CSS, JavaScript.",
+        "Building websites and apps that are responsive and usable.",
+        "Maintenance of existing software products",
+        "Development of web application backend with PHP/Yii",
+        "Development of web application frontend with Javascript/ReactJS",
+        "Code version control using Git VCS and GitHub",
+        "Technologies: React.js, HTML, CSS, PHP, JavaScript/jQuery, Git"
+
+    ],
+    "company": "FlexPay Limited"
+    },
     {
-        "id": "4",
-        "order": 4,
+        "id": "5",
+        "order": 5,
         "title": "WEBSITES",
-        "dates": "2017 - 2020",
+        "dates": "2017 - 2022",
         "duties": [
+        "onlineshopping.toprated.co.ke",
         "portifolio.toprated.co.ke",
         "quickfix-si.com",
         "professors.toprated.co.ke",
+        "autolist.co.ke",
         "gamex.toprated.co.ke",
         "gamelounge.toprated.co.ke",
         "bodaorda.toprated.co.ke",
